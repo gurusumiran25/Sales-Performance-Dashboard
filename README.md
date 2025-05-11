@@ -67,6 +67,24 @@ The dashboard provides a high-level overview of sales performance across regions
 
 ---
 
+📸 Dashboard Snapshots
+🔹 Overview Page - 
+
+![Screenshot 2025-05-11 184227](https://github.com/user-attachments/assets/41a93e4f-b777-41e0-bea0-d0d341b49a53)
+
+🔹 Sales by Region (Bar Chart) - 
+
+![Screenshot 2025-05-11 185047](https://github.com/user-attachments/assets/d93b4fce-ab43-40dd-ab9a-2f4f28dc5637)
+
+🔹 Profit Trends (Line Chart) - 
+
+![Screenshot 2025-05-11 185355](https://github.com/user-attachments/assets/5f497a09-db56-465e-b824-5993ef3d3339)
+
+🔹 Customer Type Breakdown (Donut Chart) - 
+
+![Screenshot 2025-05-11 184947](https://github.com/user-attachments/assets/cac7a484-bb08-4bc5-8f58-71f728fec6b2)
+
+
 ### 🧠 Insights
 
 * Central and East regions are top contributors in terms of total sales
