@@ -44,6 +44,8 @@ The dashboard provides a high-level overview of sales performance across regions
 
 * `SalesPerformance_Dashboard.pbix` – Full Power BI project with all visuals
 
+📥 [Download the PBIX Dashboard File](https://github.com/gurusumiran25/Sales-Performance-Dashboard/raw/main/SalesPerformance_Dashboard.pbix)
+
 ---
 
 ### 🔧 Steps Followed
